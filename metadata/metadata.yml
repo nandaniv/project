@@ -1,0 +1,27 @@
+metadata_version: 1
+name: A set of deep learning algorithms for air quality prediction applications
+description: A set of machine learning algorithms, including grid-based (Bidirectional
+  Convolutional Long Short-Term Memory) and graph-based (Attention Temporal Graph
+  Convolutional Network) algorithms were used to predict air quality. The methods
+  were implemented on a spatiotemporal combination of air quality, meteorological
+  and traffic data of the city of Madrid. The two methods are exposed to be reused
+  for prediction in other scenarios and different air quality phenomena.
+tags:
+- Spatiotemporal prediction
+- Nitrogen dioxide prediction
+- Geospatial analysis
+- Machine learning
+- Deep learning
+authors:
+- name: Ditsuhi Iskandaryan
+  affiliations:
+  - name: Institute of New Imaging Technologies, Universitat Jaume I
+- name: Francisco Ramos
+  affiliations:
+  - name: Institute of New Imaging Technologies, Universitat Jaume I
+- name: Sergio Trilles
+  affiliations:
+  - name: 'Institute of New Imaging Technologies, Universitat Jaume I '
+corresponding_contributor:
+  name: Sergio Trilles
+  email: strilles@uji.es

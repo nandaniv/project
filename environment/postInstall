@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -e
+pip install --upgrade pip
+#install pytorch and all related libraries
+#install pytorch and all related libraries
+$ conda update -n base -c defaults conda
+
+
+
+
+
+
